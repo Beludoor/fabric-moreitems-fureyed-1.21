@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values":[
+    "moreitems:orichalcum_block",
+    "moreitems:adamantium_block",
+    "moreitems:orichalcum_ore",
+    "moreitems:deepslate_orichalcum_ore",
+    "moreitems:adamantium_ore",
+    "moreitems:deepslate_adamantium_ore",
+    "moreitems:raw_orichalcum_block",
+    "moreitems:raw_adamantium_block"
+  ]
+}

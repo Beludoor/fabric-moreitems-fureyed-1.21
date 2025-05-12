@@ -1,0 +1,18 @@
+{
+  "item.moreitems.orichalcum_ingot": "Orichalcum ingot",
+  "item.moreitems.raw_orichalcum": "Raw Orichalcum",
+  "item.moreitems.adamantium_ingot": "Adamantium ingot",
+  "item.moreitems.raw_adamantium": "Raw Adamantium",
+
+  "block.moreitems.orichalcum_ore": "Orichalcum ore",
+  "block.moreitems.orichalcum_block": "Orichalcum block",
+  "block.moreitems.raw_orichalcum_block": "Raw Orichalcum block",
+  "block.moreitems.deepslate_orichalcum_ore": "Deepslate Orichalcum ore",
+  "block.moreitems.adamantium_ore": "Adamantium ore",
+  "block.moreitems.adamantium_block": "Adamantium block",
+  "block.moreitems.raw_adamantium_block": "Raw Adamantium block",
+  "block.moreitems.deepslate_adamantium_ore": "Deepslate Adamantium ore",
+
+  "itemgroup.moreitems.orichalcum_items_group": "Orichalcum Items",
+  "itemgroup.moreitems.orichalcum_blocks_group": "Orichalcum Blocks"
+}

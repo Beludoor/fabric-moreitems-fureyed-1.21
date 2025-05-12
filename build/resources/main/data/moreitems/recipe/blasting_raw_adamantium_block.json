@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category":"misc",
+  "cookingtime": 450,
+  "experience": 3.6,
+  "group": "adamantium_block",
+  "ingredient": {
+    "item": "moreitems:raw_adamantium_block"
+  },
+  "result": {
+    "id": "moreitems:adamantium_block"
+  }
+}
